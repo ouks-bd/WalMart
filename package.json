@@ -1,0 +1,26 @@
+{
+  "name": "walmart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress":"cypress run",
+    "cypress-open":"cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ouks-bd/WalMart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ouks-bd/WalMart/issues"
+  },
+  "homepage": "https://github.com/ouks-bd/WalMart#readme",
+  "dependencies": {
+    "cypress": "^11.0.1",
+    "typescript": "^4.8.4"
+  }
+}
